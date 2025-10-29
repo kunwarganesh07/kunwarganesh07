@@ -1,4 +1,14 @@
-# Hi 👋, I'm Ganesh Kunwar
+<img align="right" alt="Coding" width="100%" src="nishan_banner.jpg">
+<h1 align="center"># Hi 👋, I'm Ganesh Kunwar</h1>
+<h3 align="center">Motivated junior Django developer with hands-on experience building
+REST APIs, full-stack web applications, and dynamic front-end
+interfaces using Django. Eager to contribute to collaborative projects
+that solve real-world problems. Known for delivering high-quality
+solutions, quickly learning new technologies.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVuOWt3OTNveXBzODM4bHJ1eHJ1dTJ5ajI4Zm9ld2o4ZmI1ZzRsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="nishanchaudhary" /> </p>
+
 
 ### A budding Javascript developer
 
