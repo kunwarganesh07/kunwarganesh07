@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="LOGO.jpg">
+<img align="right" alt="Coding" width="100%" src="LOGO.png">
 <h1 align="center"># Hi 👋, I'm Ganesh Kunwar</h1>
 <h3 align="center">Motivated junior Django developer with hands-on experience building
 REST APIs, full-stack web applications, and dynamic front-end
