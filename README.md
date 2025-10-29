@@ -1,11 +1,13 @@
 <img align="right" alt="Coding" width="100%" src="Image.png">
+
+
 <h1 align="center"># Hi 👋, I'm Ganesh Kunwar</h1>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVuOWt3OTNveXBzODM4bHJ1eHJ1dTJ5ajI4Zm9ld2o4ZmI1ZzRsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="GaneshKunwar" /> </p>
 
 
-### A budding Javascript developer
+
 
 - 🔭 I'm currently working on **Laravel Project**
 
